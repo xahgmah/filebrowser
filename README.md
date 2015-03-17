@@ -1,3 +1,2 @@
 filebrowser
 ===========
-python based filebrowser
